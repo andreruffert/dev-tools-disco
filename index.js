@@ -19,6 +19,6 @@
 
   function stop() {
     clearInterval(intervalId);
-    intervalId = null, x = 1, up = !1;
+    intervalId = null;
   }
 })(window);
