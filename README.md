@@ -2,5 +2,4 @@
 
 > A useless thing just for the fun 😎
 
-
-<kbd>ctrl + space</kbd>
+<img src="media/preview.gif" alt="JavaScript Questions PWA preview" width="530">
